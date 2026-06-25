@@ -13,7 +13,7 @@ const cabin = Cabin({
   display: "swap",
 });
 
-const SITE = "https://revern.vercel.app";
+const SITE = "https://revern-wheat.vercel.app";
 
 export const metadata = {
   metadataBase: new URL(SITE),
